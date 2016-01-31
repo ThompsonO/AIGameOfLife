@@ -1,5 +1,7 @@
 Programmer: Oliver Thompson
 
+A zip file has been included for easy download.
+
 This code was compiled with the:
 
 cl /EHsc main.cpp
